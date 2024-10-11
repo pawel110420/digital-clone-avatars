@@ -24,7 +24,7 @@ export const InitialView = () => {
   return (
     <Box className="appcontainer">
       <Flex justify="start" align="start" className="pt-6">
-        <Heading>ANAM.AI</Heading>
+        <Heading>DIGITAL CLONES DEMO</Heading>
       </Flex>
       <Flex align="center" justify="center" className="h-[80vh] flex-col">
         <Heading size="8">AI-powered Language Learning platform</Heading>
