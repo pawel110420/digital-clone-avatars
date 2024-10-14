@@ -24,12 +24,12 @@ export const InitialView = () => {
   return (
     <Box className="appcontainer">
       <Flex justify="start" align="start" className="pt-6">
-        <Heading>DIGITAL CLONES DEMO</Heading>
+        <Heading>LimitlessMind.ai: Monetize Expertise, Empower Millions</Heading>
       </Flex>
       <Flex align="center" justify="center" className="h-[80vh] flex-col">
-        <Heading size="8">AI-powered Language Learning platform</Heading>
+        <Heading size="8">Turn your knowledge into interactive experiences.</Heading>
         <Text>
-          Practice conversations in French and get personalized feedback
+          Scale your impact and connect with learners globally.
         </Text>
         <VideoWithPlayButton onPlayClick={handlePlayClick} />
       </Flex>
